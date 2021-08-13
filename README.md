@@ -12,3 +12,5 @@ hhtps:/andreaspencer.github.io/run--buddy
 
 ## Contributions
 Made with ❤️ by Andrea Spencer
+
+### ©2019 Run Buddy, Inc
